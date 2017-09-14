@@ -16,7 +16,7 @@ Para executar os testes, seguir as etapas abaixo:
 
 - Acessar https://github.com/mozilla/geckodriver/releases
 - Fazer o download do geckodriver e extrair o arquivo geckodriver.exe
-- Na arquivo "TesteFormulario", linha 30, substituir o PATH pelo PATH do geckodriver.exe no seu computador
+- Na arquivo "TesteFormulario.java", linha 30, substituir o PATH pelo PATH do geckodriver.exe no seu computador
 
 3. No Eclipse, clicar com o botão direito do mouse sobre o projeto "com.test.catho" e selecionar "Run As > JUnit Test".
 
